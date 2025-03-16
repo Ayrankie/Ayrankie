@@ -1,9 +1,9 @@
 ## Hi Everyone
 
-🧠 I am Atakan, a young web developer trying to improve myself in software.<br>
-📍 If you're wondering I live in İzmir/Turkey<br>
-💻 I don't claim to be very good at anything, but I can help you.<br>
-👋 If you need help with anything (especially Tech and PR) reach out to me!<br>
+🧠 I am Atakan, a young web developer striving to improve my skills in software development.<br>
+📍 For those who are curious, I live in İzmir, Turkey.<br>
+💻 While I don't claim to be an expert, I'm happy to help wherever I can.<br>
+👋 If you need assistance with anything (especially Tech or PR), feel free to reach out to me!<br>
 
 
 ## 🌐 Socials:
